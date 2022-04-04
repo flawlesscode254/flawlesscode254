@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
 </p>
 
-Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Ruby on Rails` / A Cyber security enthusiast with top-notch abilities in Cyber Security Solutions; Network Firewalls, Internet Traffic Protection Systems, Protected Remote Access, Security Event Monitoring Systems and Intrusion Prevention Systems. Experienced with leading teams driving Software, Hardware and IT related projects. Seek to bring knowledge and abilities to new position with growing team. Open to new opportunities.
-
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
