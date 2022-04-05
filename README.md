@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flawlesscode254&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
-href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/"><img
+href="https://www.linkedin.com/in/duncan-kipkemoi-9a2686168/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="mailto:duncanii414@gmail.com"><img
+href="mailto:denzme414@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href="https://twitter.com/odhiambo_ed"><img
+href="https://twitter.com/AmJustCool"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
