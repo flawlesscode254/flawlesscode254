@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![MongoDb](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
 ![Postgres](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 ### Platforms
-![aws](https://www.ateamsoftsolutions.com/wp-content/uploads/2020/03/aws-1-1.png)
+![aws](https://pngset.com/images/cloud-service-management-aws-cloud-logo-symbol-trademark-text-label-transparent-png-2620254.png)
 ![firebase](https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png)
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=flawlesscode254&count_private=true&theme=tokyonight&showicons=true)]()
