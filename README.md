@@ -5,7 +5,6 @@
 
 ### Hi there 👋 I'm Duncan
 
-
 - 🔭 I’m currently working on an enterprise application to help businesses grow
 - 🌱 I’m currently learning the Go programming language
 - 💬 Ask me about working with virtual machines to deploy and manage stuff
