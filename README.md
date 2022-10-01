@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
-![Go](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.codesamplez.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fgolang.png&f=1&nofb=1&ipt=0390c29a05a0ac23f1a38174b940157ff6d9b855016dada85e02428215454017&ipo=images)
+![Go](https://icongr.am/devicon/golang-original.svg?size=50&color=currentColor)
 ### Front End Development
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
