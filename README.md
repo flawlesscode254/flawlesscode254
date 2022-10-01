@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![aws](https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor)
 ![firebase](https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png)
 ![docker](https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor)
+![nginx](https://icongr.am/devicon/nginx-original.svg?size=50&color=currentColor)
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=flawlesscode254&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flawlesscode254&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
