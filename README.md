@@ -11,7 +11,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
 </p>
-
+### Technologies I have worked with
+- [x] `Cyberpanel` - For running a self hosted email server
+- [x] `Appwrite` - A self hosted backend platform similar to firebase
+- [x] `Gitea` - A self hosted Git server to manage my repos
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
@@ -30,10 +33,6 @@
 ![firebase](https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png)
 ![docker](https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor)
 ![nginx](https://icongr.am/devicon/nginx-original.svg?size=50&color=currentColor)
-### Technologies I have worked with
-- [x] `Cyberpanel` - For running a self hosted email server
-- [x] `Appwrite` - A self hosted backend platform similar to firebase
-- [x] `Gitea` - A self hosted Git server to manage my repos
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=flawlesscode254&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flawlesscode254&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
