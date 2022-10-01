@@ -27,7 +27,7 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![React-Native](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)
 ### Backend
-![Express](https://icongr.am/devicon/express-original-wordmark.svg?size=50&color=currentColor)
+![Express](https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=57e389)
 ![Go-Fiber](https://icongr.am/devicon/go-original.svg?size=50&color=currentColor)
 ![MongoDb](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
 ![Postgres](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
