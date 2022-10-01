@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
+</p>
+
 ### Hi there 👋 I'm Duncan
 
 
@@ -11,11 +16,6 @@
 - [x] `Cyberpanel` - For running a self hosted email server
 - [x] `Appwrite` - A self hosted backend platform similar to firebase
 - [x] `Gitea` - A self hosted Git server to manage my repos
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
-</p>
 
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
