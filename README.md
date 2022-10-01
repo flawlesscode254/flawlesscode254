@@ -7,14 +7,16 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I get into peoples' heads easily
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
-</p>
 ### Technologies I have worked with
 - [x] `Cyberpanel` - For running a self hosted email server
 - [x] `Appwrite` - A self hosted backend platform similar to firebase
 - [x] `Gitea` - A self hosted Git server to manage my repos
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
+</p>
+
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
