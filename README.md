@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm Duncan
 
-- 🔭 I’m currently working on my CI/CD pipeline from scratch to help me manage and deploy projects automatically
+- 🔭 I’m currently working on my own CI/CD pipeline from scratch to help me manage and deploy projects automatically
 - 🌱 I’m currently learning the Go programming language
 - 💬 Ask me about working with virtual machines to deploy and manage stuff
 - 😄 Pronouns: He / Him
