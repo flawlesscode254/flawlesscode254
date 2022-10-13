@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm Duncan
 
-- 🔭 I’m currently working on an enterprise application to help businesses grow
+- 🔭 I’m currently working on my CI/CD pipeline from scratch to help me manage and deploy projects automatically
 - 🌱 I’m currently learning the Go programming language
 - 💬 Ask me about working with virtual machines to deploy and manage stuff
 - 😄 Pronouns: He / Him
@@ -15,6 +15,7 @@
 - [x] `Cyberpanel` - For running a self hosted email server
 - [x] `Appwrite` - A self hosted backend platform similar to firebase
 - [x] `Gitea` - A self hosted Git server to manage my repos
+- [x] `RabbitMQ` - A service that helps servers to communicate with each other in real time
 
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
