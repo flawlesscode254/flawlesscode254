@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/flawlesscode254/count.svg" />
-</p>
-
 ### Hi there 👋 I'm Duncan
 
 - 🔭 I’m currently working on my own CI/CD pipeline from scratch to help me manage and deploy projects automatically
@@ -38,9 +33,7 @@
 ![docker](https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor)
 ![nginx](https://icongr.am/devicon/nginx-original.svg?size=50&color=currentColor)
 ![ubuntu](https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=e01b24)
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=flawlesscode254&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flawlesscode254&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
+<h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
 href="https://www.linkedin.com/in/duncan-kipkemoi-9a2686168/"><img
