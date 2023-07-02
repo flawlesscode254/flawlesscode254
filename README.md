@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋 I'm Duncan
 
 - 🔭 I’m currently working on my own CI/CD pipeline from scratch to help me manage and deploy projects automatically
