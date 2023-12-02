@@ -5,6 +5,7 @@
 - 💬 Ask me about working with virtual machines to deploy and manage stuff
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I get into peoples' heads easily
+- 🤖 Most of my big projects are private
 
 ### Technologies I have worked with
 - [x] `Cyberpanel` - For running a self hosted email server
