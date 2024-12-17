@@ -13,21 +13,6 @@
 - [x] `Gitea` - A self hosted Git server to manage my repos
 - [x] `RabbitMQ` - A service that helps servers to communicate with each other in real time
 
-### :octocat: My stats
-  <table>
-
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=flawlesscode254&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=flawlesscode254&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
-  
-  </tr>   
-</table>
-
-<table>
-
-
-</table>
-
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
