@@ -17,8 +17,8 @@
   <table>
 
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kimutai01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimutai01&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=flawlesscode254&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=flawlesscode254&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
   
   </tr>   
 </table>
