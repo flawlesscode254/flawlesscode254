@@ -13,6 +13,8 @@
 - [x] `Gitea` - A self hosted Git server to manage my repos
 - [x] `RabbitMQ` - A service that helps servers to communicate with each other in real time
 
+- [ ] [![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)
+
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
