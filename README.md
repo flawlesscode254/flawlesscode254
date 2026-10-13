@@ -4,10 +4,7 @@
 *I love building great software that brings impact to the world.*  
 *I enjoy the freedom that comes with being a Software Engineer.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dun--portfolio.vercel.app-orange?style=flat-square&logoColor=white)](https://dun-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-kipkemoi-9a2686168/)
 [![Twitter](https://img.shields.io/badge/Twitter-@denzme414-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/denzme414)
-[![Email](https://img.shields.io/badge/Email-protocolspower@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:protocolspower@gmail.com)
 
 </div>
 
